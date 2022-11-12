@@ -40,6 +40,6 @@ Requires Unity3D (tested with 2017.x, but should also work with 5.x)
 
 ## Running the Project
 
-To run the project, open `_Scenes/Main.unity` and click on the play button.
+To run the project, open `Scenes/Main.unity` and click on the play button.
 
 In the main scene there will be three buttons: square, circle, and triangle. Click on one of the buttons and then click 2-3 points in the game view to draw and release a physics shape. The shape will react to gravity and interact with other objects in the scene.
