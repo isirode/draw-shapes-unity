@@ -1,5 +1,7 @@
 # Draw 2D Physics Shapes in Unity3D
 
+This is a fork of https://github.com/Hyperparticle/draw-shapes-unity.
+
 This tutorial project provides an example of how to draw shapes with the cursor in Unity similar to [IncrediBots](http://incredibots.com/if/game.php) or [Phun (now Algodoo)](http://www.algodoo.com/).
 
 The core logic of this project uses vertices specified from the cursor's coordinates to dynamically generate and configure a mesh, outline, and 2D collider.
