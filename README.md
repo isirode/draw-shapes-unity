@@ -17,8 +17,8 @@ The core logic of this project uses vertices specified from the cursor's coordin
 Requires Unity3D (tested with 2017.x, but should also work with 5.x)
 
 ```
-.
-├── _Scenes
+./Isirode/draw-shapes-unity
+├── Scenes
 |   └── Main.unity              - The project's main scene
 ├── Prefab
 |   ├── Circle.prefab           - Circle physics shape
